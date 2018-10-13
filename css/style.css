@@ -319,6 +319,7 @@ img {
 
 .navbar-brand{
     padding: 25px 0;
+    text-transform: uppercase;
     display: block;
     color: #ffffff;
     font-weight: 100;
@@ -326,7 +327,7 @@ img {
 
 .logo {
     padding: 5px;
-    font-size: 28px;
+    font-size: 25px;
     letter-spacing: 1px;
 }
 
