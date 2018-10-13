@@ -326,8 +326,8 @@ img {
 
 .logo {
     padding: 5px;
-    font-size: 32px;
-    letter-spacing: 3px;
+    font-size: 28px;
+    letter-spacing: 1px;
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
