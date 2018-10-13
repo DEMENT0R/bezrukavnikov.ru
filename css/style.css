@@ -319,10 +319,8 @@ img {
 
 .navbar-brand{
     padding: 25px 0;
-
     display: block;
     color: #ffffff;
-
 }
 
 .logo {
@@ -359,6 +357,7 @@ img {
 }
 
 .navbar-toggle .icon-bar{
+    display: block;
     background: #033D75;
 }
 
