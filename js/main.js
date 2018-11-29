@@ -98,10 +98,11 @@ $(document).ready(function () {
 	//*****Counter up js
 
 
-	$('.counter').counterUp({
-		delay: 50,
-		time: 8000
-	});
+	// $('.counter').counterUp({
+	// 	delay: 50,
+	// 	time: 8000
+	// });
+	
 
 	//*****Magnific Pop up js
 
