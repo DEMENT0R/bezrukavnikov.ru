@@ -130,6 +130,7 @@ img {
     left: calc(50vw - 75px);
 }
 
+/*
 .loader:before, .loader:after {
     content: '';
     border: 1em solid #0f928e;
@@ -157,7 +158,7 @@ img {
         transform: scale(1);
         opacity: 0; }
 }
-
+*/
 
 /*-------------- Preloader css ends ---------------*/
 
